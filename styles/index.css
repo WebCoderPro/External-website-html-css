@@ -1,0 +1,34 @@
+.header{
+    height: 352px;
+    background-image: url(tom_and_jerry_featured.jpg);
+    background-position: right;
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+    background-repeat: repeat-x;
+}
+h2{
+    font-size: 30px;
+    text-decoration: overline;
+    text-align: justify;
+}
+.blog{
+    margin: 40px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px crimson;
+}
+.Second{
+    /* display: none; */
+    visibility: hidden;
+    /* display: block; */
+}
+.inline{
+    border: 2.5px solid coral;
+}
+
+.dolor{
+    background-color: blueviolet;
+}
+
+p{
+    text-align: justify;
+}
